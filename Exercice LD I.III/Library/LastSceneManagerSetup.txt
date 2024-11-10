@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Julhiecio TPS Controller/Demo Scenes/EXERCICE LD.unity
+- path: Assets/Scenes/EXERCICE LD.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
